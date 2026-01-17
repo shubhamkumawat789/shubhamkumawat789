@@ -43,14 +43,6 @@ A machine learning project to predict the successful landing of Falcon 9 rocket 
 - **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib
 - **Key Features:** Data analysis and predictive modeling for aerospace applications.
 
----
-
-### 📊 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkumawat789&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumawat789&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with Me
 
